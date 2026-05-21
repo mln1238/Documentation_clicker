@@ -1,12 +1,12 @@
 # Documentation_clicker
-Blok ini masih dalam tahap pengembangan,
-mungkin masih ada bug di blok ini,
-semua blok di clicker ekstensi
-1.tambahkan nama clicker[angka/teks],
-2.hapus nama clicker[angka/teks],
-3.setel nama clicker[angka/teks] ke[angka],
-4.ubah nama clicker[angka/teks] dengan[angka],
-5. (nilai dalam nama clicker [angka/teks]),
-6.<clicker[angka/teks] ini telah keluar
+This block is still in the development stage,
+maybe there are still bugs in this block,
+all blocks in extensions clicker
+1.add clicker name[number/text],
+2.delete clicker name[number/text],
+3.set clicker name[number/text] to[number],
+4.change clicker name[number/text] by[number],
+5. (value in clicker name [number/text]),
+6.<this clicker[number/text] has exited
 # version
-#v.0.1.0#
+**v.0.1.0**
